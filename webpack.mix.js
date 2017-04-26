@@ -36,8 +36,8 @@ mix
    // Vendor libraries
    .extract([
        'lodash',
-       'jquery',
        'bootstrap-sass',
+       'jquery',      
        'axios',
        'vue'
    ]);
